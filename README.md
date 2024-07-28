@@ -19,19 +19,15 @@
 
 ### 1-1. 사용 방법
 
-1. tempermonkey 확장 프로그램을 설치
+- 스크립트 설치 링크
+**hide-slack-user-2024** <br/>
+https://greasyfork.org/en/scripts/501978-hide-slack-user-2024
+
+1. [tempermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ko) 확장 프로그램을 설치
 2. 설치 이후 익스텐션 사용 허가 설정하기
 3. hide-slack-user-2024 스크립트를 설치
 4. 설치 후 hide-slack-user-2024 스크립트에 hiddenUsers에 차단을 원하는 유저명을 입력하고 slack 웹페이지를 새로고침하면 작동함.
 
-파이어폭스 tempermonkey <br/>
-https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
-
-크롬 tempermonkey <br/>
-https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ko
-
-hide-slack-user-2024 <br/>
-https://greasyfork.org/en/scripts/501978-hide-slack-user-2024
 
 ## 2. vimium-c
 
