@@ -19,8 +19,7 @@
 
 ### 1-1. 사용 방법
 
-- 스크립트 설치 링크 <br/>
-[**hide-slack-user-2024 스크립트 링크**](https://greasyfork.org/en/scripts/501978-hide-slack-user-2024)
+- [**hide-slack-user-2024 스크립트 링크**](https://greasyfork.org/en/scripts/501978-hide-slack-user-2024)
 
 1. [tempermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ko) 확장 프로그램을 설치
 2. 설치 이후 익스텐션 사용 허가 설정하기
