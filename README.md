@@ -14,5 +14,7 @@
 
 1. [tempermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ko) 확장 프로그램을 설치
 2. 설치 이후 익스텐션 사용 허가 설정하기
-3. hide-slack-user-2024 스크립트를 설치
+3. [hide-slack-user-2024](https://greasyfork.org/en/scripts/501978-hide-slack-user-2024) 스크립트를 설치
 4. 설치 후 hide-slack-user-2024 스크립트에 hiddenUsers에 차단을 원하는 유저명을 입력하고 slack 웹페이지를 새로고침하면 작동함.
+유저명 `고낙연`이 보내는 메시지를 보고 싶지 않으면 아래처럼 바꾸면 됩니다. 
+![image](https://github.com/user-attachments/assets/9a2db28c-7c6e-4beb-a925-67590c9c2cd8)
